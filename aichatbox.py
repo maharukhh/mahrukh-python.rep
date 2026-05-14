@@ -20,10 +20,8 @@ responses = {
 
 while True:
 
-    # User input
     user_input = input("You: ").lower()
 
-    # Exit condition
     if user_input == "bye":
         print("Bot:", random.choice(responses["bye"]))
         break
