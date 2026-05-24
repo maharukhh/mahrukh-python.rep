@@ -1,9 +1,9 @@
-Fake News Detection System
+          Fake News Detection System
 
 A simple machine learning project that detects whether a news article is FAKE or REAL using Python and NLP.
 
 
-Tech Used
+                Tech Used
 
 Python
 
@@ -16,7 +16,7 @@ TF-IDF Vectorizer
 Passive Aggressive Classifier
 
 
-Dataset
+                Dataset
 
 Fake.csv → Fake news
 
@@ -25,14 +25,14 @@ True.csv → Real news
 Must contain a text column
 
 
-How to Run
+               How to Run
 
 pip install pandas scikit-learn
 
 python fake news_detector.py
 
 
-Working
+                 Working
 
 Loads dataset
 
