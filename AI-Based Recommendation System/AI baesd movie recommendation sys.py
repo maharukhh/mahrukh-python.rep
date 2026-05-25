@@ -1,5 +1,3 @@
-# AI-Based Recommendation System
-
 movies = {
     "action": ["Avengers", "Batman", "John Wick"],
     "comedy": ["Mr. Bean", "Home Alone", "The Mask"],
