@@ -1,5 +1,3 @@
-# Age Group Prediction System
-
 print("=== Age Detection Model ===")
 
 age = int(input("Enter age: "))
