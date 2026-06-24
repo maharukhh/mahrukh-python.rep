@@ -41,4 +41,3 @@ By completing this project, we will learn:
 - How machine learning models are trained
 - How predictions are made
 - How to visualize data using Matplotlib
-y Machine Learning project using Python. 🚀
