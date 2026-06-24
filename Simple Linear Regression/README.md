@@ -1,4 +1,4 @@
-# 📈 Simple Linear Regression Using Python
+Simple Linear Regression Using Python
 
 Overview
 This project demonstrates a basic implementation of Simple Linear Regression using Python and the Scikit-Learn library. The model learns the relationship between input (X) and output (y) values and predicts new results. A graph is also displayed to visualize the regression line and data points.
@@ -41,6 +41,4 @@ By completing this project, we will learn:
 - How machine learning models are trained
 - How predictions are made
 - How to visualize data using Matplotlib
-## Author
-
-Developed as a beginner-friendly Machine Learning project using Python. 🚀
+y Machine Learning project using Python. 🚀
