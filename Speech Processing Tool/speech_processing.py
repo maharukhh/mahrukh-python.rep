@@ -7,16 +7,6 @@ Two-way speech processing:
     what you say (uses Google's free Web Speech API over the internet
     for recognition — requires an internet connection at runtime).
 
-Requirements:
-  pip install pyttsx3 SpeechRecognition pyaudio
-
-  Note: pyaudio can be tricky to install on Windows via plain pip. If
-  `pip install pyaudio` fails, try:
-    pip install pipwin
-    pipwin install pyaudio
-
-Usage:
-  python speech_processing.py
 """
 
 import pyttsx3
